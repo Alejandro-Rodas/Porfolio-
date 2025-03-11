@@ -1,5 +1,6 @@
-# Data Science, Analysis & Engineering Portfolio  
+
 # Alejandro Rodas ||  B.A Data Science Emphasis in Industrial Analystics at University of California, Berkeley
+# Data Science, Analysis & Engineering Portfolio  
 This repository showcases my expertise in **data science, data engineering, machine learning, and database management**, 
 emphasizing efficient data processing, statistical modeling, and large-scale analytics.  
 
