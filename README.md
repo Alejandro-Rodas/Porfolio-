@@ -1,5 +1,6 @@
 # Alejandro Rodas  
 **Staff Data Scientist and MLE at Qlarant**
+
 **B.A. in Data Science, Emphasis in Industrial Analytics at University of California, Berkeley**  
 
 
