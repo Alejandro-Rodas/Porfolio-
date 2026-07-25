@@ -11,7 +11,9 @@ Berkeley, CA |  Data Science • Data Analytics • ML • Data Engineering
 https://alejandro-rodas.github.io/
 but feel free to also read here!)
 
-Welcome! This repository highlights my academic and professional experience across data science, analytics, and data engineering. My work spans statistical inference, machine learning, causal modeling, large-scale data processing and databases with a strong foundation in advanced statistical methods, programming, database systems, data analysis and ML.
+Welcome! I’m a Machine Learning Engineer and Staff Data Scientist at Qlarant with a B.A. in Data Science from UC Berkeley.
+
+This repository highlights my academic and professional experience across data science, analytics, and data engineering. My work spans statistical inference, machine learning, causal modeling, large-scale data processing and databases with a strong foundation in advanced statistical methods, programming, database systems, data analysis and ML.
 
 Some of my skills include: 
 Advanced SQL, Query Optimization, Data Modeling, Advanced Python, Scikit-learn, TensorFlow, PyTorch, Regression Analysis, A/B Testing, Statistical Inference, Bayesian Inference,NLP, GLMs, Optimization Modeling, AWS, GCP, OLAP, Databases,  PySpark, Snowflake, MongoDB (and PyMongo), ETL pipelines, NumPy, Matplotlib, Seaborn, GeoPandas, Sigma, Model Development (Random Forests, Neural Networks), Snowflake, Databricks, data wrangling, feature engineering, causal inference, EDA, pandas, NumPy, seaborn, matplotlib, SQL, Python, A/B testing, geopandas, Tableau, Java etc.
