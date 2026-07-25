@@ -1,7 +1,7 @@
 # Alejandro Rodas  
-**B.A. in Data Science, Emphasis in Industrial Analytics**  
-**University of California, Berkeley**  
-Berkeley, CA |  Data Science • Data Analytics • ML • Data Engineering
+**Staff Data Scientist and MLE at Qlarant**
+**B.A. in Data Science, Emphasis in Industrial Analytics at University of California, Berkeley**  
+
 
 ---
 
